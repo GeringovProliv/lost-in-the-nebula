@@ -1,0 +1,10 @@
+[net]
+tickrate = 30
+
+[netres]
+limit = 25.0
+
+[infolinks]
+discord = "https://discord.gg/mZYHbDNrcq"
+github = "https://github.com/GeringovProliv/lost-in-the-nebula"
+patreon = "https://boosty.to/pizdec_station_14"
